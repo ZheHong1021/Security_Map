@@ -16,7 +16,7 @@
 為圖片資料夾，放置一些 icon的圖片
 
 <br>
-### 【CSS】
+###【CSS】
 * L.icon.Pulse.css
 為顯示目前位置icon的外匯插件
 
@@ -27,6 +27,5 @@
 ### 【js】
 * L.icon.Pulse.js
 同上，為顯示目前位置icon的外匯插件
-<br>
 * OSM.js
 包含Ajax、按鈕事件、地圖顯現。
